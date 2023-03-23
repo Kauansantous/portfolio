@@ -153,6 +153,7 @@ font-size: 1.37rem;
     .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
+        gap: 20%;
          
     }
 
@@ -165,10 +166,6 @@ font-size: 1.37rem;
         width: 60%;
        
     }
-    
-    .main{
-        gap:10%;
-    }
-
+   
 
 }
