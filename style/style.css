@@ -153,7 +153,7 @@ font-size: 1.37rem;
     .apresentacao{
         flex-direction: column-reverse;
         padding: 5%;
-         gap: 10%;
+         
     }
 
     .apresentacao_conteudo{
@@ -164,6 +164,10 @@ font-size: 1.37rem;
      .apresentacao_foto{
         width: 60%;
        
+    }
+    
+    .main{
+        gap:10%;
     }
 
 
